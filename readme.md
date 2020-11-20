@@ -400,7 +400,6 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Lcoffee](l/lcoffee.lcoff)
 * [Less](l/less.less)
 * [Leszek](l/leszek.leszek)
-* [Lightning Web Component](l/lwc.html)
 * [Limbo](l/limbo.b)
 * [Lingo](l/lingo.lg4)
 * [Lisaac](l/lisaac.li)
